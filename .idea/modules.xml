@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClasseInterface/ClasseInterface.iml" filepath="$PROJECT_DIR$/ClasseInterface/ClasseInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassseObjeto/ClassseObjeto.iml" filepath="$PROJECT_DIR$/ClassseObjeto/ClassseObjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pp1-ccpsi.iml" filepath="$PROJECT_DIR$/.idea/pp1-ccpsi.iml" />
+    </modules>
+  </component>
+</project>
